@@ -1,6 +1,3 @@
-# AuraCube-8-8-8-RGB-Custom-STM32-Effects-Firmware
-AuraCube 8×8×8 RGB – Custom STM32 Effects Firmware
-
 # AuraCube 8×8×8 RGB – Custom STM32 Effects Firmware
 
 Custom firmware for the **AuraCube 8×8×8 RGB LED cube**, built around the STM32F103 and the original AuraCube display hardware/scan driver.
